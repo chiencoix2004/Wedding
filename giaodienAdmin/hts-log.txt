@@ -1,0 +1,25 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 19 Jan 2024 18:40:57 at https://designreset.com/equation/html/semi-dark-menu/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://designreset.com/equation/html/semi-dark-menu/ -O1 "C:\My Web Sites\Xuong" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:40:58	Warning: 	Note: due to https://designreset.com remote robots.txt rules, links beginning with these path will be forbidden: /tag/, /wp-admin/, /wp-login/ (see in the options to disable this)
+18:43:38	Error: 	"Not Found" (404) at link https://designreset.com/equation/html/layouts/semi-dark-menu/css/dark/structure-mod.css (from https://designreset.com/equation/html/semi-dark-menu/app-mailbox.html)
+18:43:38	Error: 	"Not Found" (404) at link https://designreset.com/equation/html/layouts/semi-dark-menu/css/light/structure-mod.css (from https://designreset.com/equation/html/semi-dark-menu/app-mailbox.html)
+18:43:41	Error: 	"Not Found" (404) at link https://designreset.com/equation/html/semi-dark-menu/app-ecommerce-product.html (from https://designreset.com/equation/html/semi-dark-menu/app-ecommerce-product-shop.html)
+18:43:41	Error: 	"Not Found" (404) at link https://designreset.com/equation/html/semi-dark-menu/app-blog-post.html (from https://designreset.com/equation/html/semi-dark-menu/app-blog-grid.html)
+18:43:41	Error: 	"Not Found" (404) at link https://designreset.com/equation/html/semi-dark-menu/assets/img/product-1.jpg (from https://designreset.com/equation/html/semi-dark-menu/component-splide.html)
+18:43:41	Error: 	"Not Found" (404) at link https://designreset.com/equation/html/semi-dark-menu/assets/img/product-2.jpg (from https://designreset.com/equation/html/semi-dark-menu/component-splide.html)
+18:43:41	Error: 	"Not Found" (404) at link https://designreset.com/equation/html/semi-dark-menu/assets/img/product-3.jpg (from https://designreset.com/equation/html/semi-dark-menu/component-splide.html)
+18:43:42	Error: 	"Not Found" (404) at link https://designreset.com/equation/html/src/plugins/src/treeview/custom-jstree.js (from https://designreset.com/equation/html/semi-dark-menu/element-treeview.html)
+18:43:44	Warning: 	Retry after error -5 (Unable to get server's address: No such host is known. ) at link https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png (from https://designreset.com/equation/html/semi-dark-menu/pages-contact-us.html)
+18:43:44	Error: 	"Not Found" (404) at link https://designreset.com/equation/html/src/assets/css/img/arrow-down.png (from https://designreset.com/equation/html/src/assets/css/light/main.css)
+18:43:44	Error: 	"Not Found" (404) at link https://designreset.com/equation/html/src/assets/assets/img/video-chat-2.jpg (from https://designreset.com/equation/html/src/assets/css/light/apps/chat.css)
+18:43:44	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png (from https://designreset.com/equation/html/semi-dark-menu/pages-contact-us.html)
+18:43:44	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png (from https://designreset.com/equation/html/semi-dark-menu/pages-contact-us.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 47 seconds : 508 links scanned, 494 files written (22237078 bytes overall) [12850927 bytes received at 76951 bytes/sec], 10712248 bytes transferred using HTTP compression in 115 files, ratio 9%, 26.5 requests per connection
+(11 errors, 3 warnings, 0 messages)
